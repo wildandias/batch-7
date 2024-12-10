@@ -1,1 +1,0 @@
-// ini dari ajs.js
